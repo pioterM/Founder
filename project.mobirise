@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "Founder.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -37,14 +37,17 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 14,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<!-- Google Tag Manager (noscript) -->\r\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WNK5SQ8\"\r\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\r\n<!-- End Google Tag Manager (noscript) -->"
   },
   "pages": {
-    "index.html": {
+    "Founder.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Founder",
+        "meta_descr": "Лендинг известного блога Founder.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
