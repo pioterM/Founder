@@ -1,2 +1,2 @@
-# Founder.github.io
-Мой лендинг для блога
+# pioterM.github.io
+GitHub Pages
